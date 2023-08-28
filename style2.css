@@ -1,0 +1,119 @@
+.first{
+    width: 500px;
+    height: 400px;
+    float: right;
+    
+}
+/* .personal{
+    border: 2px solid greenyellow;
+    position: relative;
+    border-radius: 100px 100px 100px 100px;
+    top: 100px;
+    right: -1150px;
+    z-index: 0; */
+/* } */
+.firstslide .icon{
+    width: 200px;
+    position: relative;
+    top: 200px;
+    left: 50px;
+    display: flex;
+    justify-content: space-between;
+
+   
+
+    color: wheat;
+}
+.firstslide .icon i{
+   
+    font-size: 30px;
+    border-radius:10px;
+    /* background-color: yellow    ; */
+}
+.firstslide .icon i:hover{
+    background-color: blue;
+}
+.firstslide{
+    width: 100%;
+    height: 600px;
+    position: relative;
+    top: 60px;
+    border: 18px solid greenyellow;
+    background-color: black;   
+}
+.text h1{
+    color: greenyellow;
+    /* border: 2px solid red; */
+    position: relative;
+    top: 180px;
+    left: 50px;
+}
+.firstslide h5{
+    color: rgb(251, 255, 35);
+    position: relative;
+    top: 200px;
+    left:50px ;
+    width: 550px;
+}
+.firstslide button{
+    position: relative;
+    top: 250px;
+    left:50px ;
+}
+span{
+    color: orange;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    background-color:black;
+    height: 650px;
+    border: 20px solid blueviolet;
+    position: relative;
+    top: 100px;
+    bottom: 20px;
+
+
+}
+.heading{
+    text-align: center;
+    font-size: 4.5rem;
+}
+
+
+.aboutcontent h2{
+    color: aquamarine;
+     text-align: left;
+    line-height: 2.8;
+}
+.aboutcontent h3{
+    font-size: 2.6rem;
+    color: white;
+}
+.aboutcontent p{
+    margin: 2rem 0 3rem;
+    color: blueviolet;
+}
+.read{
+    background-color: greenyellow;
+    /* border: 1px solid red; */
+    text-decoration: none;
+    color: black;
+}
+.read:hover{
+    text-decoration: none;
+    border-radius: 5px;
+    color: orangered;
+}
+
+   .skill{
+    height: 750px;
+    position: relative;
+    bottom: -200px;
+    /* background-color: rgb(126, 117, 117); */
+   }
+   .skills{
+    float: inline-start;
+   }
+   
